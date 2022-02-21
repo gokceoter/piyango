@@ -1,2 +1,2 @@
 # piyango
-Lottery dapp
+Lottery dApp
